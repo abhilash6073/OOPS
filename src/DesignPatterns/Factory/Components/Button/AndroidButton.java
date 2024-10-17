@@ -1,4 +1,5 @@
 package DesignPatterns.Factory.Components.Button;
 
-public class AndroidButton {
+public class AndroidButton implements Button{
+
 }

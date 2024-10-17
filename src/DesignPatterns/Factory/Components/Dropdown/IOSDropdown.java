@@ -1,4 +1,4 @@
 package DesignPatterns.Factory.Components.Dropdown;
 
-public class IOSDropdown {
+public class IOSDropdown implements Dropdown{
 }

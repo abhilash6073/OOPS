@@ -1,4 +1,5 @@
 package Interfaces;
 
-public class Penguin {
+public class Penguin extends Birds{
+
 }

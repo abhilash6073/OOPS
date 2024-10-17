@@ -1,4 +1,4 @@
-package DesignPatterns.Factory.Components;
+package DesignPatterns.Factory.Components.Button;
 
 public interface Button {
 }

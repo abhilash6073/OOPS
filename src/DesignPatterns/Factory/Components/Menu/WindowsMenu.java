@@ -1,4 +1,4 @@
 package DesignPatterns.Factory.Components.Menu;
 
-public class WindowsMenu {
+public class WindowsMenu implements Menu{
 }

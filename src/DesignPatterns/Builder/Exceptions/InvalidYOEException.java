@@ -1,4 +1,4 @@
-package DesignPatterns.Singleton.DesignPatterns.Exceptions;
+package DesignPatterns.Builder.Exceptions;
 
 public class InvalidYOEException extends RuntimeException{
 

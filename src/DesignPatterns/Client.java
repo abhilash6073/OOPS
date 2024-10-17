@@ -1,4 +1,6 @@
-package DesignPatterns.Singleton;
+package DesignPatterns;
+
+import DesignPatterns.Singleton.Singleton;
 
 public class Client {
     public static void main(String[] args) {

@@ -1,8 +1,8 @@
-package DesignPatterns.Singleton.DesignPatterns;
+package DesignPatterns.Builder;
 
-import DesignPatterns.Singleton.DesignPatterns.Exceptions.InvalidGradYearException;
-import DesignPatterns.Singleton.DesignPatterns.Exceptions.InvalidNameException;
-import DesignPatterns.Singleton.DesignPatterns.Exceptions.InvalidYOEException;
+import DesignPatterns.Builder.Exceptions.InvalidGradYearException;
+import DesignPatterns.Builder.Exceptions.InvalidNameException;
+import DesignPatterns.Builder.Exceptions.InvalidYOEException;
 
 public class Student {
     private int id;

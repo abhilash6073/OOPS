@@ -1,4 +1,6 @@
 package DesignPatterns.Decorator;
 
-public class Icecream {
+public interface Icecream {
+    int getCost();
+    String getDescription();
 }

@@ -1,4 +1,4 @@
 package DesignPatterns.Factory.Components.Dropdown;
 
-public class WindowsDropdown {
+public class WindowsDropdown implements Dropdown{
 }
