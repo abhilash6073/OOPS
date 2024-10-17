@@ -5,102 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f36bc49d-12e8-489f-8b0c-26ee6fae8ba8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Strategy/BikePathCalculatorStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Strategy/CarPathCalculatorStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Strategy/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Strategy/Maps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Strategy/PathCalculatorFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Strategy/PathCalculatorStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Strategy/TransportationMode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Strategy/WalkPathCalculatorStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Observer/Amazon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Observer/CashbackGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Observer/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Observer/CustomerNotifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Observer/InventoryManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Observer/InvoiceGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Observer/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Observer/OrderPlacedSubscriber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Observer/ReturnData.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AbstractAndInterface/Child2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstractAndInterface/Child2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AbstractAndInterface/Parent2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AbstractAndInterface/Parent2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AtomicDataType/AtomicCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AtomicDataType/AtomicCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AtomicDataType/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AtomicDataType/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AtomicDataType/Count.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AtomicDataType/Count.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AtomicDataType/Incrementer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AtomicDataType/Incrementer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Callable/ArrayAdder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Callable/ArrayAdder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Callable/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Callable/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CollectionAndGenerics/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionAndGenerics/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CollectionAndGenerics/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionAndGenerics/Printer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CollectionAndGenerics/SetDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionAndGenerics/SetDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CollectionAndGenerics/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionAndGenerics/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CollectionAndGenerics/WrapperDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionAndGenerics/WrapperDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DSA/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DSA/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Adapter/BankAPIAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Adapter/BankAPIAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Adapter/ICICIBankAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Adapter/ICICIBankAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Adapter/ICICIBankAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Adapter/ICICIBankAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Adapter/PhonePe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Adapter/PhonePe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Adapter/YesBankAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Adapter/YesBankAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Adapter/YesBankAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Adapter/YesBankAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Builder/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Builder/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Builder/Exceptions/InvalidGradYearException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Builder/Exceptions/InvalidGradYearException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Builder/Exceptions/InvalidNameException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Builder/Exceptions/InvalidNameException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Builder/Exceptions/InvalidYOEException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Builder/Exceptions/InvalidYOEException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Builder/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Builder/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Decorator/ChocolateChip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Decorator/ChocolateChip.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Decorator/ChocolateCone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Decorator/ChocolateCone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Decorator/ChocolateScoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Decorator/ChocolateScoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Decorator/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Decorator/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Decorator/Icecream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Decorator/Icecream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Decorator/OrangeCone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Decorator/OrangeCone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Decorator/VanillaCone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Decorator/VanillaCone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Decorator/VanillaScoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Decorator/VanillaScoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Factory/AndroidUIFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Factory/AndroidUIFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Factory/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Factory/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Factory/Components/Button/AndroidButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Factory/Components/Button/AndroidButton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Factory/Components/Button/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Factory/Components/Button/Button.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Factory/Components/Button/IOSButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Factory/Components/Button/IOSButton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Factory/Components/Button/WindowsButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Factory/Components/Button/WindowsButton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Factory/Components/Dropdown/AndroidDropdown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Factory/Components/Dropdown/AndroidDropdown.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Factory/Components/Dropdown/IOSDropdown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Factory/Components/Dropdown/IOSDropdown.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Factory/Components/Dropdown/WindowsDropdown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Factory/Components/Dropdown/WindowsDropdown.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Factory/Components/Menu/AndroidMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Factory/Components/Menu/AndroidMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Factory/Components/Menu/IOSMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Factory/Components/Menu/IOSMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Factory/Components/Menu/WindowsMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Factory/Components/Menu/WindowsMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Factory/Flutter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Factory/Flutter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Factory/IOSUIFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Factory/IOSUIFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Factory/SupportedPlatform.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Factory/SupportedPlatform.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Factory/UIFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Factory/UIFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Factory/UIFactoryFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Factory/UIFactoryFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Factory/WindowsUIFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Factory/WindowsUIFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/PrototypeRegistry/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/PrototypeRegistry/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/PrototypeRegistry/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/PrototypeRegistry/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/PrototypeRegistry/StudentRegistry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/PrototypeRegistry/StudentRegistry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interfaces/Birds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interfaces/Birds.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interfaces/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interfaces/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interfaces/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interfaces/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interfaces/Crow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interfaces/Crow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interfaces/IFlyable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interfaces/IFlyable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interfaces/Penguin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interfaces/Penguin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interfaces/Sparrow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interfaces/Sparrow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Semaphore/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Semaphore/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Semaphore/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Semaphore/Consumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Semaphore/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Semaphore/Producer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Strings/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strings/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Strings/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strings/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multithreading/Adder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithreading/Adder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multithreading/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithreading/BankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multithreading/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithreading/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multithreading/ClientForThreads.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithreading/ClientForThreads.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multithreading/ClientRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithreading/ClientRunnable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multithreading/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithreading/Counter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multithreading/CubePrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithreading/CubePrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multithreading/HelloWorldPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithreading/HelloWorldPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multithreading/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithreading/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multithreading/MyThr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithreading/MyThr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multithreading/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithreading/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multithreading/MyThread1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithreading/MyThread1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multithreading/MyThread2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithreading/MyThread2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multithreading/ReadWriteCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithreading/ReadWriteCounter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multithreading/ReentrantExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithreading/ReentrantExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multithreading/SquarePrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithreading/SquarePrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multithreading/ThreadUsingRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithreading/ThreadUsingRunnable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multithreading/ThreadsUsingThreads.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithreading/ThreadsUsingThreads.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multithreading/UnfairLockExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multithreading/UnfairLockExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,8 +25,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -309,6 +223,16 @@
             <option name="lambda-ordinal" value="-1" />
           </properties>
           <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DesignPatterns/Observer/Client.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DesignPatterns/Observer/Client.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="30" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
